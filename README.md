@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @sneljm
-- 👀 I’m interested in things
-- 🌱 I’m currently learning js
-- 📫 How to reach me. . . snjbnk0@outlook.com
+snjbnk0@outlook.com
